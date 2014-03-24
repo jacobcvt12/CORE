@@ -1,0 +1,13 @@
+CORE/
+├── bin
+│   └── calculate_CR
+├── data
+├── figs
+├── main.sh
+├── project_tree
+├── R
+│   └── 30 Recipes.R
+└── src
+    └── cpp_comb.cpp
+
+5 directories, 5 files
